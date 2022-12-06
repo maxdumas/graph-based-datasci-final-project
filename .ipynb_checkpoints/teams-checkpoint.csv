@@ -1,0 +1,31 @@
+team_name,city_name,conference,division,arena_lat,arena_long
+Boston Celtics,"Boston, MA",eastern,atlantic,-71.062228,42.366303
+Brooklyn Nets,"New York City, NY",eastern,atlantic,-73.974689,40.68265
+New York Knicks,"New York City, NY",eastern,atlantic,-73.993611,40.750556
+Philadelphia 76ers,"Philadelphia, PA",eastern,atlantic,-75.171944,39.901111
+Toronto Raptors,"Toronto, Ontario",eastern,atlantic,-79.379167,43.643333
+Chicago Bulls,"Chicago, IL",eastern,central,-87.674167,41.880556
+Cleveland Cavaliers,"Cleveland, OH",eastern,central,-81.688056,41.496389
+Detroit Pistons,"Detroit, MI",eastern,central,-83.245556,42.696944
+Indiana Pacers,"Indianapolis, IN",eastern,central,-86.155556,39.763889
+Milwaukee Bucks,"Milwaukee, WI",eastern,central,-87.916944,43.043611
+Atlanta Hawks,"Atlanta, GA",eastern,southeast,-84.396389,33.757222
+Charlotte Hornets,"Charlotte, NC",eastern,southeast,-80.839167,35.225
+Miami Heat,"Miami, FL",eastern,southeast,-80.188056,25.781389
+Orlando Magic,"Orlando, FL",eastern,southeast,-81.383611,28.539167
+Washington Wizards,"Washington, DC",eastern,southeast,-77.020833,38.898056
+Denver Nuggets,"Denver, CO",western,northwest,-105.0075,39.748611
+Minnesota Timberwolves,"Minneapolis, MN",western,northwest,-93.276111,44.979444
+Oklahoma City Thunder,"Oklahoma City, OK",western,northwest,-97.515,35.463333
+Portland Trail Blazers,"Portland, OR",western,northwest,-122.666667,45.531667
+Utah Jazz,"Salt Lake City, UT",western,northwest,-111.901111,40.768333
+Golden State Warriors,"San Francisco, CA",western,pacific,-122.3875,37.768056
+Los Angeles Clippers,"Los Angeles, CA",western,pacific,-118.267222,34.043056
+Los Angeles Lakers,"Los Angeles, CA",western,pacific,-118.267222,34.043056
+Phoenix Suns,"Phoenix, AZ",western,pacific,-112.071389,33.445833
+Sacramento Kings,"Sacramento, CA",western,pacific,-121.518056,38.649167
+Dallas Mavericks,"Dallas, TX",western,southwest,-96.810278,32.790556
+Houston Rockets,"Houston, TX",western,southwest,-95.362222,29.750833
+Memphis Grizzlies,"Memphis, TN",western,southwest,-90.050556,35.138333
+New Orleans Pelicans,"New Orleans, LA",western,southwest,-90.081944,29.948889
+San Antonio Spurs,"San Antonio, TX",western,southwest,-98.4375,29.426944
